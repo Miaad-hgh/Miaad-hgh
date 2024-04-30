@@ -6,7 +6,7 @@ AI Enthusiast | Data Scientist
 
 
 ###
-<h4 align="middle">About</h4>
+<h1 align="middle">About</h1>
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 - 🌱 &nbsp; Learning more about Machine Learning, Deep Learning and Artificial Intelligence.
 - 💼 &nbsp; Working as a Data Scientist and Digitalization intern at BMW Group.
