@@ -1,8 +1,9 @@
 <h2 align="left">Hi there👋 My name is Miaad - Welocme to my GitHub! </h2>
 
 ###
-AI Enthusiast | Data Scientist
-
+<h3 align="center">  AI Enthusiast | Data Scientist  </h3> <br>
+<p align="center"> 
+<a href="https://https://www.linkedin.com/in/miaad-hajighasemi/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Miaad Hajighasemi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
