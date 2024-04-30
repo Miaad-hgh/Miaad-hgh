@@ -2,11 +2,10 @@
 
 ###
 
-I'm doing my master in Data Analytics and Decision science at RWTH Aachen University.
+:man_student:	I'm doing my master in Data Analytics and Decision science at RWTH Aachen University.
 I'm doing my internship as Data Science and Digitalization intern at BMW AG Group, Germany.
 ###
 
-"1st_place_medal": "https://github.githubassets.com/images/icons/emoji/unicode/1f947.png?v8"
 
 
 ## 🌐 Socials:
