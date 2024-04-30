@@ -2,6 +2,7 @@
 
 ###
 AI Enthusiast | Data Scientist
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -11,6 +12,8 @@ AI Enthusiast | Data Scientist
 - 🌱 &nbsp; Learning more about Machine Learning, Deep Learning and Artificial Intelligence.
 - 💼 &nbsp; Working as a Data Scientist and Digitalization intern at BMW Group.
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###
 
 
@@ -18,6 +21,8 @@ AI Enthusiast | Data Scientist
 ## 🌐 Connect with Me:
 -  &nbsp; ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/Miaad Hajighasemi) 
 -  &nbsp; [![gmail](https://img.shields.io/badge/gmail-%230077B5.svg?logo=gmail&logoColor=white)] (miaad.hq@gmail.com)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 💻 Tech Stack:
 -![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,6 +34,7 @@ AI Enthusiast | Data Scientist
 -![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 -![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=miaad-hgh&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
