@@ -11,7 +11,7 @@
 
 
 ## 🌐 Socials:
--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Miaad Hajighasemi) 
+&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Miaad Hajighasemi) 
 -[![gmail](https://img.shields.io/badge/gmail-%230077B5.svg?logo=gmail&logoColor=white)]
 
 # 💻 Tech Stack:
