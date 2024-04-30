@@ -1,7 +1,8 @@
 <h2 align="left">Hi there👋 My name is Miaad - Welocme to my GitHub! </h2>
 
 ###
-
+AI Enthusiast | Data Scientist
+###
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 - 🌱 &nbsp; Learning more about Machine Learning, Deep Learning and Artificial Intelligence.
 - 💼 &nbsp; Working as a Data Scientist and Digitalization intern at BMW Group.
