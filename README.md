@@ -11,7 +11,7 @@
 
 ###
 # :bulb:	About
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🎓 &nbsp; Studying Data Analytics and Decision Science at RWTH Aachen University.
 - 🌱 &nbsp; Learning more about Machine Learning, Deep Learning and Artificial Intelligence.
 - 💼 &nbsp; Working as a Data Scientist and Digitalization intern at BMW Group.
 
