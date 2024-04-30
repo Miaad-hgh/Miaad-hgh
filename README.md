@@ -16,14 +16,6 @@
 - 💼 &nbsp; Working as a Data Scientist and Digitalization intern at BMW Group.
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-###
-
-
-
-## 🌐 Connect with Me:
--  &nbsp; ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/Miaad Hajighasemi) 
--  &nbsp; [![gmail](https://img.shields.io/badge/gmail-%230077B5.svg?logo=gmail&logoColor=white)] (miaad.hq@gmail.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
