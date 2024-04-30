@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Miaad and I'm a Data Science enthusiast</h2>
+<h2 align="left">Hi 👋! My name is Miaad and I'm a Data Science fresher living in Germany</h2>
 
 ###
 
