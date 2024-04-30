@@ -6,6 +6,7 @@ I'm doing my master in Data Analytics and Decision science at RWTH Aachen Univer
 I'm doing my internship as Data Science and Digitalization intern at BMW AG Group, Germany.
 ###
 
+  "+1": "https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png?v8",
 
 
 ## 🌐 Socials:
