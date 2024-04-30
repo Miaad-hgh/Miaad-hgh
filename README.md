@@ -2,8 +2,9 @@
 
 ###
 
-:man_student:	I'm doing my master in Data Analytics and Decision science at RWTH Aachen University.
-I'm doing my internship as Data Science and Digitalization intern at BMW AG Group, Germany.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+
 ###
 
 
