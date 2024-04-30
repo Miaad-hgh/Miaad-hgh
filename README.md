@@ -3,8 +3,8 @@
 ###
 <h3 align="center">  AI Enthusiast | Data Scientist  </h3> <br>
 <p align="center"> 
-- &nbsp; <a href="https://https://www.linkedin.com/in/miaad-hajighasemi/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Miaad Hajighasemi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miaad-hajighasemi/"></a>
-- &nbsp; <a href="https://https://www.gmail.com/miaad.hq@gmail.com/"><img alt="gmail" src="https://img.shields.io/badge/-Miaad Hajighasemi-red?style=flat-square&logo=gmail&logoColor=white&link=https://www.gmail.com/gmail/miaad.hq@gmail.com/"></a>
+ &nbsp; <a href="https://https://www.linkedin.com/in/miaad-hajighasemi/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Miaad Hajighasemi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miaad-hajighasemi/"></a>
+ &nbsp; <a href="https://https://www.gmail.com/miaad.hq@gmail.com/"><img alt="gmail" src="https://img.shields.io/badge/-Miaad Hajighasemi-red?style=flat-square&logo=gmail&logoColor=white&link=https://www.gmail.com/gmail/miaad.hq@gmail.com/"></a>
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
